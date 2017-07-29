@@ -8,7 +8,8 @@ payloads = [r"java%0d%0ascript%0d%0a:alert(0)",
             r"//google%00.com",
             r"http://google.com/"]
 
-print("RatedR")
+print("RatedR v1 @B3nac")
+print("================")
 print("Type in url and parameter being tested. Ex. www.google.com/r=")
 
 url = input("http://"+'')
