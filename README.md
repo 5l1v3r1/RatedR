@@ -7,7 +7,7 @@ RatedR run through all payloads based on what target and parameter you feed it
 
 #Ex. Usage:
 
-```python3 rater.py```
+```python3 ratedr.py```
 
 Then the program asks you for the url and param. Ex. www.google.com/r=bob.
 
